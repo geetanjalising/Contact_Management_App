@@ -1,4 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://geetanjalisingh1815:Geetanjali1815@cluster0.du5dvqw.mongodb.net/?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }

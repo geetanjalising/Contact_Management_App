@@ -1,4 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://almogwer:almogwer@contacts.1obvm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "secret"
+ "jwtSecret": "secret"
 }
